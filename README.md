@@ -1,6 +1,7 @@
 ### Oie! Me chamo Ana Luiza ✨🙃 👋
-- 🌱 Atualmente estou estudando para ser desenvolvedora de softwares e outras tecnologias! 🥰
+- ✨ Atualmente estou estudando para ser desenvolvedora de softwares e também estudo outras tecnologias! 🥰
 ##
+- 🌱 Curiosidade sobre mim: Desde pequena sou interessada em tecnologia porém amo viver perto da natureza. Amo Yoga, astrologia e qualquer assunto relacionado ao auto-conhecimento!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizathome&show_icons=true&theme=material-palenight)
 ##
